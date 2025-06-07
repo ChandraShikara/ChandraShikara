@@ -1,5 +1,13 @@
+<h1 align="center">Hi 👋, I'm Chandra Shikara</h1>
+<p align="center">A passionate Full Stack Developer & AI Enthusiast from India 🇮🇳</p>
 
-# 👋 Hi, I’m Dandu Chandra Shikara!
+- 🌱 I’m currently learning **Generative AI, LangChain, and MERN Stack**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, Java, RASA, and Full-Stack Web Development**
+- 📫 How to reach me: danduchandrashikara21@gmail.com
+
+--- 
+
 🎯 A self-motivated Computer Science undergraduate currently in my 3rd year, passionate about Full Stack Development, Generative AI, and Cloud Computing. I enjoy building scalable, meaningful software and learning continuously in the space of NLP, LLMs, and AI-driven apps.
 
 ---
