@@ -81,6 +81,7 @@
 - 📧 Email: danduchandrashikara21@gmail.com
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=ChandraShikara&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandraShikara&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShikara&layout=compact&theme=default)
 
