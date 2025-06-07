@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Generative AI, LangChain, and MERN Stack**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, Java, RASA, and Full-Stack Web Development**
+- 💬 Ask me about **Python, Java,MySQL and Full-Stack Web Development**
 - 📫 How to reach me: danduchandrashikara21@gmail.com
 
 --- 
