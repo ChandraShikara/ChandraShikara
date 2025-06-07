@@ -49,17 +49,17 @@
 
 ## 🧪 Featured Projects
 
-### 🔬 [Lectures Check](https://github.com/ChandraShikara/Lectures-check.git)  
+### 🔬 [Lectures Check](https://github.com/ChandraShikara/Lectures-check)  
 > MERN + LLM (BART) | AI-Powered Lecture Content Validator  
 - Professor uploads, lecture summarization with BART  
 - Visual analytics like completion % & keyword tracking
 
-### 🧠 [Maanas Health](https://github.com/ChandraShikara/Maanas-Health.git)  
+### 🧠 [Maanas Health](https://github.com/ChandraShikara/Maanas-Health)  
 > MERN + Flask + ML | Post-COVID Mental Health App  
 - Analyzes stress, anxiety, and depression with ML  
 - Secure dashboards for teachers and students
 
-### 📊 [EDA Project](https://github.com/ChandraShikara/EDA-Project.git)  
+### 📊 [EDA Project](https://github.com/ChandraShikara/EDA-Project)  
 > Data-driven insights using Python, Pandas, and Matplotlib  
 - Real-world dataset exploration and visualization  
 - Detailed analysis and insights for decision-making
